@@ -1,7 +1,20 @@
-html{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+html {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-body{
-    background-color: aqua;
-    color: pink;
+body {
+  background-color: aqua;
+  color: pink;
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  margin: 0%;
+  padding: 0%;
+  background-color: blueviolet;
+}
+footer {
+  color: white;
+  margin-top: 20%;
+  margin-bottom: 0%;
+  background-color: black;
 }
