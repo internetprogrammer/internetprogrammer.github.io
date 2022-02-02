@@ -1,24 +1,59 @@
-
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-#top{
-text-align: center;
-width: 100%;
-background-color: rgb(137, 223, 158);
-color: 222222;
-
-
+#top {
+  text-align: center;
+  width: 100%;
+  background-color: #333333;
+  color: 222222;
 }
-#pasokImage{
-width: 100%;
 
+#based {
+  text-align: center;
+  background-color: white;
+  color: 222222;
+  margin-bottom: 30%;
 }
-#based{
-    text-align: center;
-    background-color: white;
-    color: 222222;
+#meat {
+  padding-top: 40px;
+}
+#foote {
+  width: 100%;
+  background-color: #333333;
+  color: white;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333333;
+}
+li a {
+  display: block;
+  padding: 16px;
+  text-decoration: none;
+}
+li {
+  float: left;
+  width: 33%;
+}
+li:hover {
+  background-color: #111111;
+}
+#flag {
+  width: 100px;
+  height: 100px;
+}
+#VirusClick {
+  margin-top: 80px;
+  display: block;
+  padding: 16px;
+  background-color: #333333;
+  width: 33%;
+  height: 50px;
+  margin-left: 33%;
+  margin-right: 33%;
+  text-decoration: none;
 }
